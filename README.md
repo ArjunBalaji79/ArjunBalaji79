@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Arjun Balaji</h1>
 <h3 align="center">About me</h3>
-I'm an undergraduate student with a keen interest in memory efficient deep learning, AI accelerated drug discovery, Computer Vision, NLP, and leveraging technology for social impact. 
+I'm an undergraduate student with a keen interest in memory efficient deep learning, AI-accelerated drug discovery, Computer Vision, NLP, and leveraging technology for social impact. 
 
 - 🔭 I’m currently working on [ProteoDockNet](https://dockingscoreappapp-vypudgobchyjwk4n3w2fy5.streamlit.app/)
 
