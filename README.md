@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Arjun Balaji</h1>
+<h1 align="center">Hi, I'm Arjun Balaji</h1>
 <h3 align="center">An undergraduate student passionate about working on interdisciplinary fields of AI</h3>
 
 - 🔭 I’m currently working on [ProteoDockNet](https://dockingscoreappapp-vypudgobchyjwk4n3w2fy5.streamlit.app/)
