@@ -2,7 +2,7 @@
 <h3 align="center">About me</h3>
 I'm an undergraduate student with a keen interest in memory efficient deep learning, AI-accelerated drug discovery, Computer Vision, NLP, and leveraging technology for social impact. 
 
-- I'm currently interning at People+ai and Carnegie Mellon University.
+- I'm currently a Research Intern at Carnegie Mellon University. 
 
 - 👨‍💻 All of my projects are available at [https://arjunbalaji02.wixsite.com/arjun-balaji](https://arjunbalaji02.wixsite.com/arjun-balaji)
 
