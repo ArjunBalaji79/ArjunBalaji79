@@ -2,7 +2,9 @@
 <h3 align="center">About me</h3>
 I'm an undergraduate student with a keen interest in memory efficient deep learning, AI-accelerated drug discovery, Computer Vision, NLP, and leveraging technology for social impact. 
 
-- 👨‍💻 All of my projects are available at [https://arjunbalaji02.wixsite.com/arjun-balaji](https://arjunbalaji02.wixsite.com/arjun-balaji)
+- AI Research @ CMU, NTU, IISc
+
+- 👨‍💻 All of my projects are available at [www.arjunbalaji.in](https://arjunbalaji02.wixsite.com/arjun-balaji)
 
 - 📫 How to reach me **arjun.balaji.02@gmail.com**
 
