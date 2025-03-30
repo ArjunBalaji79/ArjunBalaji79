@@ -1,6 +1,4 @@
 <h1 align="center">Hi, I'm Arjun Balaji</h1>
-<h3 align="center">About me</h3>
-
 
 - AI Research @ CMU, NTU, IISc
 
