@@ -1,6 +1,9 @@
 <h1 align="center">Hi, I'm Arjun Balaji</h1>
 <h3 align="center">About me</h3>
-I'm an undergraduate student with a keen interest in memory efficient deep learning, AI-accelerated drug discovery, Computer Vision, NLP, and leveraging technology for social impact. 
+
+My research interests are in AI for Social Good, particularly in how it interacts with us in everyday life. I focus on harnessing AI to develop impactful solutions in healthcare, education, and assistive technology, ensuring these systems are accessible, efficient, and cost-effective.
+
+Additionally, I am interested in optimizing AI models for precision medicine, drug discovery, and computer vision, working on hardware-efficient models. My goal is to drive innovation in these areas while ensuring AI serves broader societal needs.
 
 - AI Research @ CMU, NTU, IISc
 
