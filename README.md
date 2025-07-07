@@ -1,5 +1,7 @@
 <h1 align="center">Hi, I'm Arjun Balaji</h1>
 
+- Incoming MPA @ Columbia University
+
 - AI Research @ CMU, NTU, IISc
 
 - 👨‍💻 All of my projects are available at [www.arjunbalaji.in](https://www.arjunbalaji.in/)
