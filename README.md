@@ -2,7 +2,7 @@
 
 - AI Research @ CMU, NTU, IISc
 
-- 👨‍💻 All of my projects are available at [www.arjunbalaji.in](https://arjunbalaji02.wixsite.com/arjun-balaji)
+- 👨‍💻 All of my projects are available at [www.arjunbalaji.in](https://www.arjunbalaji.in/)
 
 - 📫 How to reach me **arjun.balaji.02@gmail.com**
 
